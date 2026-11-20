@@ -6,3 +6,9 @@ out/
 # Configurações do editor
 .vscode/
 .idea/
+
+# Teste rápido do benchmark (não entra nos números do artigo)
+results/rapido/
+
+# Testes temporários (não devem ser commitados)
+src/ordenacao/Teste*.java
